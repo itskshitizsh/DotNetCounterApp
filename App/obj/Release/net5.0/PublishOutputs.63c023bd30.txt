@@ -1,0 +1,4 @@
+/Users/skshitiz/itskshitizsh/DotNetCounterApp/App/bin/Release/net5.0/publish/NetCore.Docker.dll
+/Users/skshitiz/itskshitizsh/DotNetCounterApp/App/bin/Release/net5.0/publish/NetCore.Docker.deps.json
+/Users/skshitiz/itskshitizsh/DotNetCounterApp/App/bin/Release/net5.0/publish/NetCore.Docker.runtimeconfig.json
+/Users/skshitiz/itskshitizsh/DotNetCounterApp/App/bin/Release/net5.0/publish/NetCore.Docker.pdb
